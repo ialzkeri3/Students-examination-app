@@ -1,0 +1,3 @@
+Name 	 Correct 	 Wrong 	 percentage
+a 	 2 	 1 	 66.66666666666666%
+Ib 	 0 	 3 	 0.0%
